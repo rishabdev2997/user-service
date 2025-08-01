@@ -1,0 +1,33 @@
+# Compiled class files
+target/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+.project
+.classpath
+.settings/
+.vscode/
+
+# Build tools
+build/
+.mvn/
+mvnw
+mvnw.cmd
+
+# STS
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
