@@ -1,0 +1,7 @@
+com\example\user_service\security\SecurityConfig.class
+com\example\user_service\UserServiceApplication.class
+com\example\user_service\controller\UserProfileController.class
+com\example\user_service\repository\UserProfileRepository.class
+com\example\user_service\model\UserProfile$UserProfileBuilder.class
+com\example\user_service\model\UserProfile.class
+com\example\user_service\service\UserProfileService.class
